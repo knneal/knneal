@@ -1,6 +1,6 @@
 # **Kylie Neal** 
 ## Academics:
-- Sophomore
+- Sophomore at University of Washington Seattle
 - Electrical and Computer Engineering major
 - Business minor
 - SARP (Society of Advanced Rocket Propulsion) member
